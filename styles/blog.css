@@ -1,0 +1,54 @@
+.header{
+    height: 200px;
+    /* background-image: url('baby.jpeg'); */
+    background-image: url('../images/awake/images.jpeg');
+    /* background-size: 13%;
+    background-repeat: repeat-x;
+    background-position: bottom;
+    background-color: blue;
+    color: yellow;
+    background-blend-mode: multiply; */
+    background-size: 6%;
+    background-repeat: repeat-x;
+    background-color: blue;
+    color: yellowgreen;
+    background-position:bottom ;
+    background-blend-mode: multiply;
+}
+
+h3{
+    color: magenta;
+    /* text-decoration: underline; */
+    text-decoration: underline wavy burlywood;
+}
+p{
+    color: blueviolet;
+}
+.page-title{
+    font-size: 900;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+span{
+    border: 1px solid red;
+    /* height: 100px;
+    width: 50px;
+    margin-left: 50px;
+    margin-right: 50px; 
+    display: inline-block; */
+    height: 100px;
+    width: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+    /* display: inline-block; */
+    display: inline-block;
+
+}
+
+.blog{
+    background-color: bisque;
+    box-shadow: 10px 10px 10px gray;
+}
